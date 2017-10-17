@@ -1,8 +1,0 @@
-c:\users\admin\source\repos\Echo\Echo\bin\Debug\netcoreapp2.0\Echo.deps.json
-c:\users\admin\source\repos\Echo\Echo\bin\Debug\netcoreapp2.0\Echo.runtimeconfig.json
-c:\users\admin\source\repos\Echo\Echo\bin\Debug\netcoreapp2.0\Echo.runtimeconfig.dev.json
-c:\users\admin\source\repos\Echo\Echo\bin\Debug\netcoreapp2.0\Echo.dll
-c:\users\admin\source\repos\Echo\Echo\obj\Debug\netcoreapp2.0\Echo.csprojResolveAssemblyReference.cache
-c:\users\admin\source\repos\Echo\Echo\obj\Debug\netcoreapp2.0\Echo.csproj.CoreCompileInputs.cache
-c:\users\admin\source\repos\Echo\Echo\obj\Debug\netcoreapp2.0\Echo.AssemblyInfoInputs.cache
-c:\users\admin\source\repos\Echo\Echo\obj\Debug\netcoreapp2.0\Echo.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Necro\Necro\bin\Debug\netcoreapp2.0\Necro.deps.json
+C:\Users\admin\source\repos\Necro\Necro\bin\Debug\netcoreapp2.0\Necro.runtimeconfig.json
+C:\Users\admin\source\repos\Necro\Necro\bin\Debug\netcoreapp2.0\Necro.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Necro\Necro\bin\Debug\netcoreapp2.0\Necro.dll
+C:\Users\admin\source\repos\Necro\Necro\obj\Debug\netcoreapp2.0\Necro.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\Necro\Necro\obj\Debug\netcoreapp2.0\Necro.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Necro\Necro\obj\Debug\netcoreapp2.0\Necro.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Necro\Necro\obj\Debug\netcoreapp2.0\Necro.AssemblyInfo.cs
+C:\Users\admin\source\repos\Necro\Necro\bin\Debug\netcoreapp2.0\Necro.pdb
+C:\Users\admin\source\repos\Necro\Necro\obj\Debug\netcoreapp2.0\Necro.dll
+C:\Users\admin\source\repos\Necro\Necro\obj\Debug\netcoreapp2.0\Necro.pdb
