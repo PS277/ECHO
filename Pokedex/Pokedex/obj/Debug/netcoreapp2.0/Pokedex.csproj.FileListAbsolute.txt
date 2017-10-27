@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp2.0\Pokedex.deps.json
+C:\Users\admin\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp2.0\Pokedex.runtimeconfig.json
+C:\Users\admin\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp2.0\Pokedex.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp2.0\Pokedex.dll
+C:\Users\admin\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp2.0\Pokedex.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp2.0\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp2.0\Pokedex.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp2.0\Pokedex.AssemblyInfo.cs
+C:\Users\admin\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp2.0\Pokedex.pdb
+C:\Users\admin\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp2.0\Pokedex.dll
+C:\Users\admin\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp2.0\Pokedex.pdb
